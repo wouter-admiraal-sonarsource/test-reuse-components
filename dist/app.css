@@ -1,4 +1,5 @@
-@media (max-width: 1200) {
-  body {
-    font-weight: bold;
-    color: red; } }
+.my-class {
+  color: #0000ff; }
+  @media (max-width: 1200) {
+    .my-class {
+      max-width: 400px; } }

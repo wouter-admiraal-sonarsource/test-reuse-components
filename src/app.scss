@@ -1,8 +1,10 @@
+@import "test-css-component/src/utils/variables";
 @import "test-css-component/src/utils/helpers";
 
-body {
+.my-class {
+  color: $blue;
+
   @include mq(1200) {
-    font-weight: bold;
-    color: red;
+    max-width: 400px;
   }
 }

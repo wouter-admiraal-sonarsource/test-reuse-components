@@ -940,9 +940,9 @@ tar@^2.0.0:
     fstream "^1.0.2"
     inherits "2"
 
-"test-css-component@git+https://github.com/wouter-admiraal-sonarsource/test-css-component.git":
+"test-css-component@https://github.com/wouter-admiraal-sonarsource/test-css-component.git":
   version "1.0.0"
-  resolved "git+https://github.com/wouter-admiraal-sonarsource/test-css-component.git#a4a81b5ea64ac8f76b76f9f73a6a8ea0a112fdd5"
+  resolved "https://github.com/wouter-admiraal-sonarsource/test-css-component.git#b1f3a8444b6d69ad95cd394e0f34cb51fb12e60c"
 
 tough-cookie@~2.4.3:
   version "2.4.3"

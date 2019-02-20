@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:css": "node-sass --include-path=node_modules/ -o dist src/app.scss"
+    "build:css": "node-sass --include-path=node_modules/ -o dist src/*.scss"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/wouter-admiraal-sonarsource/test-reuse-components#readme",
   "dependencies": {
-    "test-css-component": "git+https://github.com/wouter-admiraal-sonarsource/test-css-component.git"
+    "test-css-component": "https://github.com/wouter-admiraal-sonarsource/test-css-component.git"
   },
   "devDependencies": {
     "node-sass": "^4.11.0"
