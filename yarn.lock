@@ -942,7 +942,7 @@ tar@^2.0.0:
 
 "test-css-component@https://github.com/wouter-admiraal-sonarsource/test-css-component.git":
   version "1.0.0"
-  resolved "https://github.com/wouter-admiraal-sonarsource/test-css-component.git#b1f3a8444b6d69ad95cd394e0f34cb51fb12e60c"
+  resolved "https://github.com/wouter-admiraal-sonarsource/test-css-component.git#9bb72f14b6d0910f4bcece24d46b5d2dcca062fd"
 
 tough-cookie@~2.4.3:
   version "2.4.3"
