@@ -1,0 +1,8 @@
+@import "test-css-component/src/utils/helpers";
+
+body {
+  @include mq(1200) {
+    font-weight: bold;
+    color: red;
+  }
+}
